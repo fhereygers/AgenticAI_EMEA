@@ -43,12 +43,36 @@ Shared ahead of the HoL or during the Session.
 Click into the workspace based on your username. Please, do not select any other workbench as this could disturb the workload management.  
 
 user 001 to user020 -> nemea2-ml-wb01
+
 user021 to user040 -> nemea2-ml-wb02
+
 user041 to user060 -> nemea2-ml-wb03
-user061 to user080 -> nemea2-ml-wb04
-user081 to user100 -> nemea2-ml-wb04
 
 
+<br/>
+<img src="images/2workspace.png" width="90%">
+<br/>
+
+
+You will see your project. Click into it. 
+
+<br/>
+<img src="images/3projects.png" width="90%">
+<br/>
+
+Using the left navigation pane, click on Agent Studio
+
+<br/>
+<img src="images/4leftpane.png" width="90%">
+<br/>
+
+Clicking on Agent Studio should bring you to the screen below and click on option “Dont show this again”, then get started.
+
+<br/>
+<img src="images/5welcomestudio.png" width="90%">
+<br/>
+
+**Awesome! We are set to go!**
 
 
 
