@@ -53,7 +53,7 @@ user041 to user060 -> nemea2-ml-wb03
 <img src="images/2workspace.png" width="90%">
 <br/>
 
-Click **view all projecs** and select scope to **My Teams Projects**
+Click **view all projects** and select scope to **My Teams Projects**
 
 <br/>
 <img src="images/3ahomescreen.png" width="90%">
@@ -64,11 +64,13 @@ Click **view all projecs** and select scope to **My Teams Projects**
 <br/>
 You will see your project. Click into it. 
 
+
 <br/>
 <img src="images/3cproject.png" width="90%">
 <br/>
 
 Using the left navigation pane, click on Agent Studio
+
 
 <br/>
 <img src="images/4leftpane.png" width="90%">
