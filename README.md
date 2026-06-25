@@ -74,6 +74,39 @@ Clicking on Agent Studio should bring you to the screen below and click on optio
 
 **Awesome! We are set to go!**
 
+# Lab1: Basic Calculator and Introduction
+
+##Lets walk through the following steps
+
+**Step 1**: Click on “Create workflow”
+
+<br/>
+<img src="images/6createworkflow.png" width="90%">
+<br/>
+
+**Step 2**: Provide Workflow Name “**Lab1: Calculate**” 
+
+<br/>
+<img src="images/7workflowname.png" width="90%">
+<br/>
+
+**Step 3**: Add your first agent 
+
+<br/>
+<img src="images/8firstagent.png" width="90%">
+<br/>
+
+**Step 4**: Generate Agent Prompt with “Generate with AI” option
+
+<br/>
+<img src="images/9genaiprompt.png" width="90%">
+<br/>
+
+**Step 5**: Enter the following, then click on the blue button.
+
+Prompt = “You are an expert at calculating financial formulas”
+
+
 
 
 
