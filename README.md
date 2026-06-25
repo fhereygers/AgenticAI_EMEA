@@ -65,7 +65,7 @@ Click **view all projecs** and select scope to **My Teams Projects**
 You will see your project. Click into it. 
 
 <br/>
-<img src="images/3cprojects.png" width="90%">
+<img src="images/3cproject.png" width="90%">
 <br/>
 
 Using the left navigation pane, click on Agent Studio
