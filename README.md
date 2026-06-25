@@ -18,5 +18,5 @@ The project is organized with the following folder structure:
 ## Use Case Intelli Banking
 
 <br/>
-<img src="images/usecase.png" width="90%">
+<img src="images/1homescreena.png" width="90%">
  <br/>
